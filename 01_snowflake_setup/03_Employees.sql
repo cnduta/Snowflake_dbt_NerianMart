@@ -1,5 +1,5 @@
 
-INSERT INTO "L1_LANDING"."EMPLOYEES" ("EMPLOYEEID", "FIRSTNAME", "LASTNAME", "EMAIL", "JOBTITLE", "HIREDATE", "MANAGERID", "ADDRESS", "CITY", "STATE", "ZIPCODE", "UPDATED_AT") VALUES
+INSERT INTO "LANDING"."EMPLOYEES" ("EMPLOYEEID", "FIRSTNAME", "LASTNAME", "EMAIL", "JOBTITLE", "HIREDATE", "MANAGERID", "ADDRESS", "CITY", "STATE", "ZIPCODE", "UPDATED_AT") VALUES
 (503454, 'Juan', 'Taylor', 'juan.taylor@sleekmart.com', 'CEO', '2021-03-20', NULL, '52869 Levy Coves', 'New York', 'NY', '10001', '2025-07-03 01:18:10.494810'),
 (500647, 'Melissa', 'Salinas', 'melissa.salinas@sleekmart.com', 'Store Manager', '2023-01-25', 503454, '561 Thomas Square', 'New York', 'NY', '10001', '2025-07-03 01:18:10.494810'),
 (507242, 'Mark', 'Lee', 'mark.lee@sleekmart.com', 'Store Manager', '2021-03-07', 503454, '05344 Tamara Garden', 'Chicago', 'IL', '60601', '2025-07-03 01:18:10.494810'),
