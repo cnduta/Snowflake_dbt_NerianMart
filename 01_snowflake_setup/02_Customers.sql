@@ -1,6 +1,6 @@
 
 
-INSERT INTO "L1_LANDING"."CUSTOMERS" ("CUSTOMERID", "FIRSTNAME", "LASTNAME", "EMAIL", "PHONE", "ADDRESS", "CITY", "STATE", "ZIPCODE", "UPDATED_AT") VALUES
+INSERT INTO "LANDING"."CUSTOMERS" ("CUSTOMERID", "FIRSTNAME", "LASTNAME", "EMAIL", "PHONE", "ADDRESS", "CITY", "STATE", "ZIPCODE", "UPDATED_AT") VALUES
 ('28222', 'Timothy', 'Perez', 'timothy.perez@outlook.com', '+1-406-250-9199x4380', '8335 Mark Lock', 'Houston', 'TX', '77001', '2025-06-14 18:29:55'),
 ('22119', 'Melanie', 'Carpenter', 'melanie.carpenter@yahoo.com', '406.967.3245x30245', '258 Burns Brook Suite 328', 'Houston', 'TX', '77001', '2025-06-30 01:02:26'),
 ('23811', 'Robert', 'Nichols', 'robert.nichols@outlook.com', '7768053632', '17280 Parsons Islands Suite 593', 'Chicago', 'IL', '60601', '2025-06-07 03:40:41'),
