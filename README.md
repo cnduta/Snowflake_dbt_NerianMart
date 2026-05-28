@@ -5,15 +5,15 @@ Covers data loading, transformation with dbt, and reporting with Power BI.
 
 ## Architecture
 
-![Architecture Diagram](04_ Assets/Architectural diagram.png)
+![Architecture Diagram](04_%Assets/Architectural%diagram.png)
 
 ## Dashboard
 
-![Power BI Dashboard](04_ Assets/Dashboard screenshot.png)
+![Power BI Dashboard](04_%Assets/Dashboard%screenshot.png)
 
 ## dbt Lineage Graph
 
-![dbt Lineage]04_ Assets/linear graph_productsfact.png
+![dbt Lineage](04_%Assets/linear%graph_productsfact.png)
 
 ## Tools
 - Snowflake (data warehouse)
