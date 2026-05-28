@@ -5,15 +5,15 @@ Covers data loading, transformation with dbt, and reporting with Power BI.
 
 ## Architecture
 
-![Architecture Diagram](04_%Assets/Architectural%diagram.png)
+![Architecture Diagram]([04_%Assets/Architectural%diagram.png](https://github.com/cnduta/Snowflake_dbt_NerianMart/blob/8031138396f638f1e5c0efff92b1a0a4f8cc3945/04_%20Assets/Architectural%20diagram.png))
 
 ## Dashboard
 
-![Power BI Dashboard](04_%Assets/Dashboard%screenshot.png)
+![Power BI Dashboard]([04_%Assets/Dashboard%screenshot.png](https://github.com/cnduta/Snowflake_dbt_NerianMart/blob/8031138396f638f1e5c0efff92b1a0a4f8cc3945/04_%20Assets/Dashboard%20screenshot.png))
 
 ## dbt Lineage Graph
 
-![dbt Lineage](04_%Assets/linear%graph_productsfact.png)
+![dbt Lineage]([04_%Assets/linear%graph_productsfact.png](https://github.com/cnduta/Snowflake_dbt_NerianMart/blob/8031138396f638f1e5c0efff92b1a0a4f8cc3945/04_%20Assets/linear%20graph_productsfact.png))
 
 ## Tools
 - Snowflake (data warehouse)
