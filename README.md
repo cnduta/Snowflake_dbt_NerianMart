@@ -18,25 +18,16 @@ Covers data loading, transformation with dbt, and reporting with Power BI.
 - Power BI (reporting)
 - GitHub (version control)
 
-## Project Structure
-\```
-├── 01_snowflake_setup/    # SQL scripts to create DB, schema and load raw data
-├── models/
-│   └── customer_revenue/  # dbt staging, fact and mart models
-├── 04_ Assets/                # Architecture diagram, dashboard and lineage screenshots
-└── README.md
-\```
 
 ## How to Reproduce
 
 ### Step 1 – Load Raw Data
-Run scripts in `/01_snowflake_setup/` in order (01 → 09) directly in Snowflake
+Run the SQL scripts in the `01_snowflake_setup/` folder **in order (01 → 09)** directly in Snowflake.
 
 ### Step 2 – Run dbt models
-\```
+```bash
 dbt run
-\```
-
+```
 ### Step 3 – Connect Power BI
 Connect Power BI directly to Snowflake and load the transformed tables
 
