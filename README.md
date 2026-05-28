@@ -13,7 +13,7 @@ Covers data loading, transformation with dbt, and reporting with Power BI.
 
 ## dbt Lineage Graph
 
-![dbt Lineage](04_ Assets/linear graph_productsfact.png)
+![dbt Lineage]04_ Assets/linear graph_productsfact.png
 
 ## Tools
 - Snowflake (data warehouse)
