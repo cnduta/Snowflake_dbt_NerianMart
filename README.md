@@ -5,7 +5,7 @@ Covers data loading, transformation with dbt, and reporting with Power BI.
 
 ## Architecture
 
-![Architecture Diagram]([04_%Assets/Architectural%diagram.png](https://github.com/cnduta/Snowflake_dbt_NerianMart/blob/8031138396f638f1e5c0efff92b1a0a4f8cc3945/04_%20Assets/Architectural%20diagram.png))
+![Architecture Diagram]([[04_%Assets/Architectural%diagram.png](https://github.com/cnduta/Snowflake_dbt_NerianMart/blob/8031138396f638f1e5c0efff92b1a0a4f8cc3945/04_%20Assets/Architectural%20diagram.png)](https://github.com/cnduta/Snowflake_dbt_NerianMart/blob/main/04_%20Assets/Architectural%20diagram.png))
 
 ## Dashboard
 
